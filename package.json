@@ -1,0 +1,14 @@
+{
+  "name": "skelete",
+  "version": "1.0.0",
+  "description": "squelette pour integration rapide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tommy CHOISY",
+  "license": "ISC",
+  "devDependencies": {
+    "laravel-elixir": "^6.0.0-15"
+  }
+}

@@ -1,0 +1,6 @@
+resources/.sass-cache
+web/img
+web/js
+web/css
+web/fonts
+node_modules
